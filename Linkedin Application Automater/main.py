@@ -56,3 +56,5 @@ for job_listing in all_job_listings:
         abort_application()
         print("No APPLICATION FOUND")
         continue
+
+driver.quit()
